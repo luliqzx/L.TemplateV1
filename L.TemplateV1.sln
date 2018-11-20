@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.TemplateV1.Web", "L.TemplateV1.Web\L.TemplateV1.Web.csproj", "{24A6A6E5-8B02-4378-952C-4017CB802ACC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.TemplateV1.Domain", "L.TemplateV1.Domain\L.TemplateV1.Domain.csproj", "{DF10ACD3-3048-4CB2-BBBE-70D378CEDFC6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.TemplateV1.Infrasturture", "L.TemplateV1.Infrasturture\L.TemplateV1.Infrasturture.csproj", "{72C58C88-7C97-4D82-9DFE-C16044B0D910}"
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{24A6A6E5-8B02-4378-952C-4017CB802ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24A6A6E5-8B02-4378-952C-4017CB802ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24A6A6E5-8B02-4378-952C-4017CB802ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24A6A6E5-8B02-4378-952C-4017CB802ACC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DF10ACD3-3048-4CB2-BBBE-70D378CEDFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DF10ACD3-3048-4CB2-BBBE-70D378CEDFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF10ACD3-3048-4CB2-BBBE-70D378CEDFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
